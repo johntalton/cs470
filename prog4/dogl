@@ -1,0 +1,1 @@
+c++ -o $1 $1.cpp -I/usr/X11R6/include -I/usr/local/include -L/usr/local/lib -L/usr/X11R6/lib -lGL -lGLU -lglut -lX11 -lXt -lXmu -lXext
